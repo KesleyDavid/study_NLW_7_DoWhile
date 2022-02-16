@@ -1,0 +1,9 @@
+[submodule "study_NLW_7_DoWhile_Node"]
+	path = study_NLW_7_DoWhile_Node
+	url = git@github.com:KesleyDavid/study_NLW_7_DoWhile_Node.git
+[submodule "study_NLW_7_DoWhile_React"]
+	path = study_NLW_7_DoWhile_React
+	url = git@github.com:KesleyDavid/study_NLW_7_DoWhile_React.git
+[submodule "study_NLW_7_DoWhile_ReactNative"]
+	path = study_NLW_7_DoWhile_ReactNative
+	url = git@github.com:KesleyDavid/study_NLW_7_DoWhile_ReactNative.git
